@@ -1,0 +1,14 @@
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Users\cm97gud\RiderProjects\MartenSample\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
